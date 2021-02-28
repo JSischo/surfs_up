@@ -9,7 +9,7 @@ Following are the most pertinent findings from the statistical analysis of the q
 - The high temperature between June and Decemeber does not vary significantly (83 in Dec and 85 in June).
 - June is slightly higher on average than December (75 vs. 71 respectively).
 - December low temperatures are a bit cooler than June (56 vs. 64 respectively).
- 
+### Statistical Summary
   ![June Temps Data](/Resources/June_temps.PNG)![December Temps Data](/Resources/Dec_temps.PNG)
 
 
