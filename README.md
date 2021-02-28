@@ -5,14 +5,13 @@
 
 ## Results:
 
-Following are the most pertinent findings from the queries that were conducted:
-- From the unique_titles.csv database we find that there are a large number of employees that will be retiring in the near future from HP.
-- From the retiring_titles.csv file we see some results that are a little concerning. We are able to ascertain that a large number of retirees will be from senior level positions, almost 64%. The largest number at the Senior Engineer level followed very closely by Senior Staff. See below for the actual numbers.
+Following are the most pertinent findings from the statistical analysis of the queries that were conducted (see figures for details):
+- The high temperature between June and Decemeber does not vary significantly (83 in Dec and 85 in June).
+- June is slightly higher on average than December (75 vs. 71 respectively).
+- December low temperatures are a bit cooler than June (56 vs. 64 respectively).
  
   ![June Temps Data](/Resources/June_temps.PNG)![December Temps Data](/Resources/Dec_temps.PNG)
 
-- On the plus side, we can also see from the above query that the company may only be loosing two managers to retirement. 
-- The mentorship eligibility query was able to produce a list of 1549 current employees that may be eligible to be mentors before they retire.
 
 ## Summary:
 
