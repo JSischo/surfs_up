@@ -1,7 +1,7 @@
 # surfs_up
 
 ## Purpose of the Analysis
-> The purpose of this project was to utilize previously conducted queries and newly constructed databases regarding potentially retiring employees to help the executives at PH determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Conducting these anaylses will help the company plan for a large number of retirees to enable them to plan hiring and training plans.
+> The purpose of this project was to perform further queries on a temperature database on June and December temperatures on Oahu. The analysis of the results will help to determine the historical temperatures from low to high and then average. This will help our customer in their decision making process on whether or not to open a surf and ice cream store.
 
 ## Results:
 
@@ -9,7 +9,7 @@ Following are the most pertinent findings from the queries that were conducted:
 - From the unique_titles.csv database we find that there are a large number of employees that will be retiring in the near future from HP.
 - From the retiring_titles.csv file we see some results that are a little concerning. We are able to ascertain that a large number of retirees will be from senior level positions, almost 64%. The largest number at the Senior Engineer level followed very closely by Senior Staff. See below for the actual numbers.
  
-  ![June Temps Data](/Resources/June_temps.PNG)
+  ![June Temps Data](/Resources/June_temps.PNG)[December Temps Data](/Resources/Dec_temps.PNG)
 
 - On the plus side, we can also see from the above query that the company may only be loosing two managers to retirement. 
 - The mentorship eligibility query was able to produce a list of 1549 current employees that may be eligible to be mentors before they retire.
